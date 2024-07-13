@@ -1,3 +1,4 @@
+alert('Reduce the viewport for best experince ');
 const words = document.querySelectorAll('.special-word');
 
 words.forEach((word) => {
